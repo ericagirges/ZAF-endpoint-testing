@@ -1,0 +1,20 @@
+{
+  "name": "Endpoints-Testing",
+  "author": {
+    "name": "Erica Girges",
+    "email": "erica.girges@zendesk.com",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "top_bar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
